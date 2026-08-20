@@ -1,0 +1,3 @@
+[Line 00002] 2026-08-20 10:02:15 WARNING High memory usage detected (85%)
+[Line 00004] 2026-08-20 10:12:43 ERROR   Failed to connect to database: Connection refused
+[Line 00006] 2026-08-20 10:20:11 ERROR   Timeout while processing request #4092
